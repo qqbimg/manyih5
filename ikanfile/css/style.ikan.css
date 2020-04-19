@@ -61,7 +61,7 @@ a:focus,a:hover,a:active{ text-decoration:none; color: #ff5f00;}
 .head_a{height: 1.5rem;}
 .head_b{height: 1.25rem;}
 .head_logo {float: left;width: 5rem;margin-top: 0.2rem;}
-.head_logo .logo {display: block;width: 5rem;height: 1rem;background: url(../img/logo_black.png) no-repeat;background-position: 50% 50%;background-size: cover;}
+.head_logo .logo {display: block;width: 5rem;height: 1rem;background: url(http://god.avqbb.com/template/ikan/img/logo_black.png) no-repeat;background-position: 50% 50%;background-size: cover;}
 .head_menu_a {width: auto;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);z-index: 10;}
 .head_menu_a li {position: relative; line-height: 1.5rem;float: left;padding: 0 0.36rem;}
 .head_menu_a li.active a{color: #ff5f00;font-weight: 700;font-size: 0.425rem;opacity: 1;}
@@ -115,7 +115,7 @@ a:focus,a:hover,a:active{ text-decoration:none; color: #ff5f00;}
 .hot_banner .head_menu_a a:hover,.hot_banner .head_user a:hover,.hot_banner .head_hot_search a:hover,.hot_banner .head_user li .dropbox.user a:hover{color: #ff5f00;opacity: 1;}
 .hot_banner .head_menu_b:hover a.menu{color: #fff;opacity: 1;}
 .hot_banner {position: relative;height: auto;min-height: 2.75rem;background-color: #282832;}
-.hot_banner .head_logo .logo {background: url(../img/logo_white.png) no-repeat;background-position: 50% 50%;background-size: cover;}
+.hot_banner .head_logo .logo {background: url(http://god.avqbb.com/template/ikan/img/logo_white.png) no-repeat;background-position: 50% 50%;background-size: cover;}
 .hot_banner .header::after{border-bottom: 1px solid rgba(255, 255, 255, 0.1);}
 .hot_banner .head_menu_b .menu{border-right: 1px solid rgba(255, 255, 255, 0.1);}
 .hot_banner .head_box {width: 100%;height: auto;position: absolute;top: 0;left: 0;z-index: 999999992;}

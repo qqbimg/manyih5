@@ -1,0 +1,14 @@
+/* head_bottom_ads */
+.ads.ads_w{max-height: 2.5rem;}
+.ads {width: 100%;display: block;overflow: hidden;background: #f8f8f8;border-radius: 4px;text-align: center;}
+.ads img{width: 100%;}
+.right_ads {display: block;overflow: hidden;max-width: 100%;max-height: 8rem;text-align: center;}
+.ads_rbox.adfixed{position: fixed;top: 1.25rem;left: 0; width: 100%;z-index: 0;}
+.adfixed .ads_rmkc {width: 30%;float: right;padding-left: 1rem;}
+.hl_bottom_ads {display: block;position: fixed;z-index: 999;width: 100%;max-height: 90px!important;left: 0;bottom: 0;}
+.bottom_ads_box{display: block;overflow: hidden;max-height: 90px!important;}
+.hl_bottom_ads .close_ads_btn {position: absolute;right: 0;top: 0;background: rgba(0, 0, 0, 0.4);color: #fff;display: block;width: 0.5rem;height: 0.5rem;line-height: 0.5rem;font-size: 0.25rem;font-weight: 700;text-align: center;}
+
+@media (max-width:820px){
+.foot_nav.foot_stem .hl_bottom_ads{padding-bottom: 1.25rem;max-height: 90px}
+}

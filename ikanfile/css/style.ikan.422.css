@@ -876,7 +876,7 @@ a:hover.swiper-button-next,a:hover.swiper-button-prev{color: #fff;background:#ff
 .page-input{display: inline-block;width:55px;height:32px;background-color: #fff;border: 1px solid #e2e2e2;border-radius:0.1rem;padding: 0.125rem 0.3rem;}
 
 /* menu-list */
-.menulist .menulink{display: none;}
+.menulist,.menulink{display: none;}
 
 /* js/appdown - tanchuang */
 .layer-shade{z-index:9999999999999999999;background-color:#000;opacity:.3;top:0;left:0;width:100%;height:100%;position:fixed;pointer-events:auto}
@@ -924,7 +924,7 @@ a:hover.swiper-button-next,a:hover.swiper-button-prev{color: #fff;background:#ff
 	.list_v6 li.num_6,.list_v5 li.num_5,.rank_hom .rank_info:last-child,.actorlist_item:nth-last-child(2),.actorlist_item:last-child,.list_v12 li.num_11,.list_v12 li.num_12,.list_m a.num5{display: none!important;}
 	.list_v10 li.num_11,.list_v10 li.num_12{display: block!important;}
 /* menu-list */
-.menulist .menulink{display: none;}
+.menulist,.menulink{display: none;}
 }
 
 @media (max-width: 991px){
@@ -944,7 +944,7 @@ a:hover.swiper-button-next,a:hover.swiper-button-prev{color: #fff;background:#ff
 	.topic_fm{max-height: unset;}
 	.rank_info{width: 50%;}
 /* menu-list */
-.menulist .menulink{display: none;}
+.menulist,.menulink{display: none;}
 }
 
 @media (min-width:820px) and (max-width: 991px){
